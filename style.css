@@ -1,0 +1,36 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+article{
+    width: 600px;
+    height: 450px;
+    background: rgb(187, 187, 187);
+    padding:15px;
+}
+section{
+    height: 210px;
+    width: 340px;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+form{
+    text-align: right;
+}
+h1{
+    border-bottom: 2px solid black;
+    line-height: 40px;
+    vertical-align: bottom;
+}
+.btn{
+    margin-top: 10px;
+}
+p{
+    line-height: 28px;
+}
+table{
+    border: 2px solid black;
+}
+th{
+    padding-right: 55px;
+}
