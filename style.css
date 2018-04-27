@@ -17,10 +17,11 @@ section{
 form{
     text-align: right;
 }
-h1{
+h2{
     border-bottom: 2px solid black;
     line-height: 40px;
     vertical-align: bottom;
+    font-size: 34px;
 }
 .btn{
     margin-top: 10px;
